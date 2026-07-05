@@ -4,10 +4,10 @@ Premium Online Store 2.0 fashion theme. Single-product or full catalog.
 No apps required for any feature below. No jQuery, no external libraries.
 
 ## Design & presets
-- 3 ready presets: **Lumen** (warm minimal light), **Mode** (black & white
-  editorial), **Vanta** (dark + electric accent)
+- **Flagship** preset: high-contrast black & white editorial design
 - Token-driven design: colors, 2 font roles, corner radius, spacing, page
-  width — change once, restyles everything
+  width — change once, restyles everything (light, warm or dark looks in
+  minutes, no code)
 - 2 product card styles: standard / caption-bar overlay
 - 2 header styles (light/dark) · 2 footer layouts (columns/centered logo)
 - Fully responsive, mobile-first; WCAG-minded (focus states, aria,
@@ -32,13 +32,17 @@ No apps required for any feature below. No jQuery, no external libraries.
   support, sticky buy panel, collapsible tabs (size chart/care/shipping),
   back-in-stock email form, in-store pickup display, trust badges,
   floating ghost-image effect (toggle)
+- **Star ratings** on product cards + product page (reads the standard
+  reviews metafields any reviews app writes; Google rich-results markup
+  included; admin toggles per location) — pair with a reviews app block
+  for full customer reviews with photo uploads
 - Recommended products (related/complementary + smart fallback)
 - Recently viewed · **Wishlist** (hearts on cards/product, wishlist page,
   header count — no app needed)
 - Countdown deal banners · promo popup + age verifier · scrolling marquee
 - Promo tiles, lookbook image hotspots, before/after slider, video banner,
   3D slideshow with cinematic zoom, editorial category grid, season
-  carousel, press logo bar, Instagram-style gallery, testimonials, FAQ
+  carousel, press logo bar, social-style image gallery, testimonials, FAQ
   accordion with categories
 
 ## Discovery & navigation
