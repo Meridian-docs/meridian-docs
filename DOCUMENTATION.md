@@ -11,9 +11,10 @@ theme editor — **no code, ever**.
 ## 1. Quick start (10 minutes)
 
 1. **Online Store → Themes → Add theme → Upload zip file.**
-2. Click **Customize** → pick a look under **Theme settings**, or load a preset:
-   - **Lumen — Clean Minimal** (warm light) · **Mode — Editorial Mono**
-     (black & white) · **Vanta — Dark Tech** (dark + electric accent)
+2. Click **Customize** → the **Flagship** preset (black & white editorial)
+   loads by default. Every color, font, corner radius and spacing value is
+   yours to change under **Theme settings** — two minutes of tweaks give
+   you a warm-light or dark look without touching code.
 3. Add products and collections (sections 2–3 below) — the homepage fills
    itself. Until then, designed placeholder imagery keeps every section
    looking finished.
@@ -133,7 +134,7 @@ Add, remove and reorder everything in the editor. Highlights:
 - **Before & after** — draggable comparison slider
 - **Image with text · Image banner · Video banner** — editorial blocks
 - **Featured blog · Testimonials · FAQ · Logo list · Newsletter ·
-  Instagram gallery** — content sections
+  Social gallery** — content sections
 - **Popup** — newsletter capture or age verification (delay + frequency)
 
 All scroll animations, parallax and hover effects are built in, GPU-only,
@@ -152,11 +153,34 @@ and automatically disabled for reduced-motion visitors.
 - **Product card style** (Theme settings → Layout): *Standard* or *Overlay*
   (caption bar on the image with a corner cart button).
 - **Product page**: image-grid or thumbnail gallery (setting), zoom lightbox,
-  product videos, sticky details, quantity + side-by-side **Add to cart /
-  Buy It Now**, collapsible tabs (size chart / care — rich text or a page),
+  product videos, 3D/AR models with “View in your space”, sticky details,
+  quantity + side-by-side **Add to cart / Buy It Now**, Shop Pay Installments,
+  collapsible tabs (size chart / care — rich text or a page),
   back-in-stock email form on sold-out items, local pickup availability,
   trust badges block, optional floating “ghost image” effect,
   **You may also like** (with smart fallback) and **Recently viewed**.
+
+### Product ratings & reviews (stars with customer photos)
+
+The theme shows **star ratings** on every product card and on the product
+page, and marks them up for **Google rich results** (stars in search).
+
+1. **Install a reviews app** — for example **Judge.me (free plan)** from the
+   Shopify App Store. Reviews need an app because customer-submitted content
+   (text + photos) must be stored somewhere; every Shopify theme works this
+   way. The app writes each product’s average rating and review count to
+   Shopify’s standard rating fields — the theme’s stars read those
+   automatically. No extra setup needed for the stars themselves.
+2. **Let customers write reviews with photos**: in the theme editor open a
+   product page → **Add block** inside the product section → pick the app’s
+   review widget block (apps appear in the block list once installed). The
+   widget shows full reviews with photo uploads right below the buy box.
+3. **Turning ratings on/off (admin control)**:
+   - Cards everywhere: **Theme settings → Layout → Product ratings →
+     “Show star ratings on product cards.”**
+   - Product page: product section settings → **“Show star rating.”**
+   - Untick either to hide stars there; uninstalling the app hides all
+     ratings automatically.
 
 ---
 
@@ -197,11 +221,12 @@ and automatically disabled for reduced-motion visitors.
 | Mega menu item is a small dropdown | Add a “Mega menu” block with that item’s exact title (§4) |
 | Popup doesn’t reappear | By design — once closed it hides for N days (setting); test in a private window |
 | Wishlist heart icon missing in header | Create the wishlist page and paste its link in Header settings (§8) |
+| Star ratings not showing | Install a reviews app and collect at least one review (§7); check both rating toggles are on |
 
 ---
 
 ## 11. Support
 
-Email: **[your support email]** — we reply within one business day.
+Email: **reshmakachhadiya08@gmail.com** — we reply within one business day.
 Recommended image sizes: products 1400×1750 · banners 2000×1100 ·
 category tiles 1000×750.
