@@ -77,5 +77,6 @@ Open the theme editor and click each homepage section:
 - Settings → Markets: add countries → currency selector goes live
 - Settings → Customer accounts: choose account type (theme includes full
   branded account pages for the Legacy option)
-- Theme settings → try the three presets: Lumen (warm light),
-  Mode (black & white editorial), Vanta (dark)
+- Theme settings → adjust colors, fonts, corners and spacing to make the
+  look your own (try a warm background like #FAF9F6 with a deep green
+  accent, or a near-black background for a dark store)
