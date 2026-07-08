@@ -1,8 +1,8 @@
-# Flagship Theme — Merchant Documentation
+# Meridian Theme — Merchant Documentation
 
 Version 1.0.0 · Shopify Online Store 2.0 · 40+ sections · no apps required
 
-Flagship is a premium fashion theme that works as a single-product store or a
+Meridian is a premium fashion theme that works as a single-product store or a
 full multi-product catalog. Everything below is done in the Shopify admin and
 theme editor — **no code, ever**.
 
@@ -11,10 +11,10 @@ theme editor — **no code, ever**.
 ## 1. Quick start (10 minutes)
 
 1. **Online Store → Themes → Add theme → Upload zip file.**
-2. Click **Customize** → the **Flagship** preset (black & white editorial)
-   loads by default. Every color, font, corner radius and spacing value is
-   yours to change under **Theme settings** — two minutes of tweaks give
-   you a warm-light or dark look without touching code.
+2. Click **Customize** → the **Meridian** preset (warm ivory and deep-burgundy,
+   Playfair serif — quiet-luxury editorial) loads by default. Every color, font,
+   corner radius and spacing value is yours to change under **Theme settings** —
+   two minutes of tweaks give you a dark or sand-toned look without touching code.
 3. Add products and collections (sections 2–3 below) — the homepage fills
    itself. Until then, designed placeholder imagery keeps every section
    looking finished.
@@ -129,7 +129,7 @@ Add, remove and reorder everything in the editor. Highlights:
 - **Scrolling text** — marquee ticker
 - **Countdown banner** — deal timer (end date, hide-when-expired)
 - **Lookbook** — image with shoppable hotspots
-- **Before & after** — draggable comparison slider
+- **Before and after** — draggable comparison slider
 - **Image with text · Image banner · Video banner** — editorial blocks
 - **Featured blog · Testimonials · FAQ · Logo list · Newsletter ·
   Social gallery** — content sections
@@ -143,7 +143,7 @@ and automatically disabled for reduced-motion visitors.
 ## 7. Collection, search & product pages
 
 - **Filter sidebar** (collections + search): enable filters once in the free
-  **Shopify Search & Discovery app** (Filters → add Color, Size, Price,
+  **Shopify Search and Discovery app** (Filters → add Color, Size, Price,
   Availability, Product type). Color values render as swatch dots; fashion
   names like *Sand* map to real colors automatically.
 - **Sorting**, product counts, active-filter pills, Clear all — built in.
@@ -208,7 +208,7 @@ page, and marks them up for **Google rich results** (stars in search).
 
 | Symptom | Fix |
 | --- | --- |
-| Filter sidebar empty | Enable filters in the Search & Discovery app (§7) |
+| Filter sidebar empty | Enable filters in the Search and Discovery app (§7) |
 | Category tiles show placeholder photos | Create collections with images (§3) |
 | No sale badge | Compare-at price must be **higher** than Price (§2) |
 | Gallery doesn’t change with color | Assign an image to each Color value (§2) |
