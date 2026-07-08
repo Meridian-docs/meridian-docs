@@ -1,17 +1,17 @@
-# Flagship — Feature List (for listings & marketing)
+# Meridian — Feature List (for listings & marketing)
 
 Premium Online Store 2.0 fashion theme. Single-product or full catalog.
 No apps required for any feature below. No jQuery, no external libraries.
 
-## Design & presets
-- **Flagship** preset: high-contrast black & white editorial design
+## Design & preset
+- **Meridian** preset: warm ivory and deep-burgundy, Playfair serif — quiet-luxury editorial design
 - Token-driven design: colors, 2 font roles, corner radius, spacing, page
   width — change once, restyles everything (light, warm or dark looks in
   minutes, no code)
 - 2 product card styles: standard / caption-bar overlay
 - 2 header styles (light/dark) · 2 footer layouts (columns/centered logo)
 - Fully responsive, mobile-first; WCAG-minded (focus states, aria,
-  contrast-safe presets, reduced-motion support)
+  contrast-safe design, reduced-motion support)
 
 ## Animations (all GPU-only, reduced-motion safe)
 - Live WebGL **3D silk hero** (no libraries, pauses off-screen)
