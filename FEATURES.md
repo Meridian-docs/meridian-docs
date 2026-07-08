@@ -37,8 +37,7 @@ No apps required for any feature below. No jQuery, no external libraries.
   included; admin toggles per location) — pair with a reviews app block
   for full customer reviews with photo uploads
 - Recommended products (related/complementary + smart fallback)
-- Recently viewed · **Wishlist** (hearts on cards/product, wishlist page,
-  header count — no app needed)
+- Recently viewed products
 - Countdown deal banners · promo popup + age verifier · scrolling marquee
 - Promo tiles, lookbook image hotspots, before/after slider, video banner,
   3D slideshow with cinematic zoom, editorial category grid, season
@@ -63,7 +62,7 @@ No apps required for any feature below. No jQuery, no external libraries.
 ## Complete page set
 Home · product · collection · collections list · search · cart · blog
 (tag filters, stacked editorial cards) · article · pages (About, FAQ,
-Contact with info cards, Wishlist templates) · 404 · gift card · full
+Contact with info cards) · 404 · gift card · full
 customer accounts (login, register, orders with tracking links, order
 detail, addresses, reset/activate)
 
