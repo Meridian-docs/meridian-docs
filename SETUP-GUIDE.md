@@ -63,14 +63,11 @@ Open the theme editor and click each homepage section:
   bundled demo photography until you do)
 - **Journal** → pick your blog
 
-## 7. Filters & wishlist (5 min)
+## 7. Filters (5 min)
 
-- Install the free **Shopify Search & Discovery** app → Filters → add
+- Install the free **Shopify Search and Discovery** app → Filters → add
   Color, Size, Price, Availability, Product type → Save. The left filter
   sidebar on collections and search fills automatically.
-- **Online Store → Pages → Add page** → title "Wishlist" → Theme template
-  **wishlist** → Save. Then paste the page link into
-  Customize → Header → "Wishlist page link" to show the heart icon.
 
 ## 8. Optional finishing touches
 
