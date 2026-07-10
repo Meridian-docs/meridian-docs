@@ -1,4 +1,4 @@
-# Meridian — 30-Minute Demo Store Setup Guide
+# Rudra — 30-Minute Demo Store Setup Guide
 
 Follow these steps in your Shopify admin and the homepage transforms from
 placeholders into a full premium storefront. Themes provide the design;
@@ -58,7 +58,7 @@ Open the theme editor and click each homepage section:
 
 - **Best sellers** → pick your All collection
 - **Shop by category** → pick your three collections
-- **Featured product** (Rich product hero) → pick your flagship product
+- **Featured product** (Rich product hero) → pick your signature product
 - **Slideshow / banners / tiles** → upload your own photos (they show
   bundled demo photography until you do)
 - **Journal** → pick your blog
