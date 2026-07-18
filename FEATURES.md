@@ -1,10 +1,10 @@
-# Rudra — Feature List (for listings & marketing)
+# Brightlight — Feature List (for listings & marketing)
 
 Premium Online Store 2.0 fashion theme. Single-product or full catalog.
 No apps required for any feature below. No jQuery, no external libraries.
 
 ## Design & preset
-- **Rudra** preset: warm ivory and deep-burgundy, Playfair serif — quiet-luxury editorial design
+- **Brightlight** preset: warm ivory and deep-burgundy, Playfair serif — quiet-luxury editorial design
 - Token-driven design: colors, 2 font roles, corner radius, spacing, page
   width — change once, restyles everything (light, warm or dark looks in
   minutes, no code)
