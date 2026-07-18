@@ -1,8 +1,8 @@
-# Rudra Theme — Merchant Documentation
+# Brightlight Theme — Merchant Documentation
 
 Version 1.0.0 · Shopify Online Store 2.0 · 40+ sections · no apps required
 
-Rudra is a premium fashion theme that works as a single-product store or a
+Brightlight is a premium fashion theme that works as a single-product store or a
 full multi-product catalog. Everything below is done in the Shopify admin and
 theme editor — **no code, ever**.
 
@@ -11,7 +11,7 @@ theme editor — **no code, ever**.
 ## 1. Quick start (10 minutes)
 
 1. **Online Store → Themes → Add theme → Upload zip file.**
-2. Click **Customize** → the **Rudra** preset (warm ivory and deep-burgundy,
+2. Click **Customize** → the **Brightlight** preset (warm ivory and deep-burgundy,
    Playfair serif — quiet-luxury editorial) loads by default. Every color, font,
    corner radius and spacing value is yours to change under **Theme settings** —
    two minutes of tweaks give you a dark or sand-toned look without touching code.
