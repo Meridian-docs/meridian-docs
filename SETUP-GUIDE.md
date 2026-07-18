@@ -1,4 +1,4 @@
-# Rudra — 30-Minute Demo Store Setup Guide
+# Brightlight — 30-Minute Demo Store Setup Guide
 
 Follow these steps in your Shopify admin and the homepage transforms from
 placeholders into a full premium storefront. Themes provide the design;
